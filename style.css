@@ -47,3 +47,16 @@ body {
 .escola-titulo {
     padding: 24px 0;
 }
+
+.estudante{
+    padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
